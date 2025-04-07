@@ -1,0 +1,48 @@
+DOCUMENTATION FOR SIT SPRINT 2
+
+Description of Playwright Test Script Organized by User Roles
+
+- Purpose of the Test Script
+The primary goal of this Playwright test script is to validate the functionalities 
+and user experiences of an application across different user roles: 
+Admin, Staff, and Next of Kin (NOK). By organizing the tests based on user roles, 
+we ensure that each type of user can perform their specific flows accurately and 
+that the application behaves as expected for each role.
+
+- Structure of the Tests
+The test script will be structured into three main sections, 
+each corresponding to a user role. Each section will contain a series of test 
+scenarios that cover the specific flows and functionalities associated with that role.
+
+1. Admin Flow
+2. Staff Flow
+3. Next of Kin (NOK) Flow
+
+Admin Flow:
+1. US-2
+2. US-4
+3. US-5 
+4. US-6
+5. US-12
+6. US-15
+
+Staff Flow:
+1. US-1
+2. US-3
+3. US-4 
+4. US-6
+5. US-12
+6. US-13
+7. US-14
+
+NOK Flow:
+1. US-8
+
+System: 
+1. US-16
+
+Run step:
+1. Staff
+2. Admin
+3. NOK
+4. System
